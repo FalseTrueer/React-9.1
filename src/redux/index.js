@@ -1,2 +1,2 @@
-import * from './constants';
+import * from '../constants';
 import * from './store';
